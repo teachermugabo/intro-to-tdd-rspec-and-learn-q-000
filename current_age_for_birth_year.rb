@@ -1,3 +1,4 @@
 def current_age_for_birth_year(yob)
-  2018 - yob
+  current_year = 2006
+  current_year - yob
 end
